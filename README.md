@@ -3,7 +3,7 @@
 A lightweight custom dropdown component built with vanilla HTML, CSS, and JavaScript — no frameworks or libraries required (except Font Awesome for icons).
 
 ## Live Demo
-[View Live]
+[View Live]https://roadmap.sh/projects/custom-dropdown
 
 ## Preview
 ![NO Selection](No-selection.png)
