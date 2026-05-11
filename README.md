@@ -3,7 +3,9 @@
 A lightweight custom dropdown component built with vanilla HTML, CSS, and JavaScript — no frameworks or libraries required (except Font Awesome for icons).
 
 ## Live Demo
-[View Live]https://roadmap.sh/projects/custom-dropdown
+[Project URL]https://roadmap.sh/projects/custom-dropdown
+[View Live] https://punxxet.github.io/Custom-Dropdown/
+
 
 ## Preview
 ![NO Selection](No-selection.png)
